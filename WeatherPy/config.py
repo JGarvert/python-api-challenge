@@ -1,1 +1,1 @@
-weather_api_key = "YourAPIKeyHere2"
+weather_api_key = "Your_API_key_here"

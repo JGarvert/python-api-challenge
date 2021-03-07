@@ -1,6 +1,6 @@
 ### python-api-challenge
 
-In this homework assignment, we were to review weather data on two fronts: 1) data across cities based on varying distance from the equator and 2) plan future vacations based on this weather data.  To date (1/7/2021), this submitted homework only addresses the first portion.
+In this homework assignment, we were to review weather data on two fronts: 1) data across cities based on varying distance from the equator and 2) plan future vacations based on this weather data.  To date (3/6/2021), this submitted homework only addresses the first portion.
 
 ## What you'll find in this workbook
 1. A series of scatter plots showing the relationhip across cities between latitude and four other metrics: max temperature, humidity, cloudiness, and wind speed.  Heading each plot is a short comclusion summary.
